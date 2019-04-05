@@ -1,0 +1,13 @@
+S -> NP VP
+NP -> CN | CN PP | SP
+CN -> AR N | AR AN | PA N
+AN -> A N
+PP -> P NP
+VP -> V PP | V NP | VP PP | V A
+SP -> 'I' | 'You' | 'She' | 'He' | 'They' | 'It'
+AR -> 'an' | 'a' | 'the' | 'some'
+N -> 'professor' | 'friend' | 'assignment' | 'dog' | 'table' | 'noodle' | 'room' | 'joke' | 'garden' | 'Minerva'
+V -> 'is' | 'study' | 'ate' | 'went' | 'remember' | 'hid' | 'finished' | 'have'
+P -> 'in' | 'on' | 'at' | 'under' | 'with' | 'to'
+A -> 'cute' | 'fun' | 'difficult' | 'creative' | 'blue' | 'nice'
+PA -> 'my' | 'your' | 'her' | 'his' | 'their' | 'its'

@@ -1,0 +1,10 @@
+f ( x ) = x * 0 . 5
+g ( x ) = sin ( x )
+f ( x , t ) = sin ( x * t )
+h ( a , b ) = ( a + b ) / 2
+f ( x , y , z ) = sqrt ( x ) - abs ( 2 / ( y * z ) )
+f ( x )
+3 + 4
+x , y
+h ( k
+s
