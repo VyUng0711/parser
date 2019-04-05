@@ -13,10 +13,10 @@ the file `test_func.txt` contains strings, each of them either belongs or does n
 
 
 
-References: <br/>
-        En.wikipedia.org. (n.d.). CYK algorithm. [online] Available at: https://en.wikipedia.org/wiki/CYK_algorithm
-        [Accessed 5 Apr. 2019]. <br/>
+**References**: <br/>
+        En.wikipedia.org. (n.d.). CYK algorithm. [online] Available at: *https://en.wikipedia.org/wiki/CYK_algorithm
+        [Accessed 5 Apr. 2019].* <br/>
         Eisele, R. (2008). The CYK Algorithm • Open Source is Everything. [online] Xarg.org. <br/>
-        Available at: https://www.xarg.org/tools/cyk-algorithm/ [Accessed 5 Apr. 2019]. <br/>
+        Available at: *https://www.xarg.org/tools/cyk-algorithm/ [Accessed 5 Apr. 2019].* <br/>
         Copyright (c) 2017 Robert McHardy <br/>
 
